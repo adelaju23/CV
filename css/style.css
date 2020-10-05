@@ -1,0 +1,22 @@
+palette /* https://colorhunt.co/palette/206929 */
+        
+        h3 {
+            color: #2eac22;
+        }
+
+        body {
+            background-color: burlywood;
+        }
+
+        hr {
+            border-style: none;
+            height: 4px;
+            text-align: center;
+            width: 90%;
+            background-color: coral;
+        }
+
+        p,table,ul, ol {
+            color: #2263ac;
+        }
+    
